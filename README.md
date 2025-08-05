@@ -86,9 +86,9 @@ check out on your own
 
 If you find this repo helpful, please consider supporting me:
 - Give this repository a ⭐ (star)!
-- [Sponsor me on GitHub](https://github.com/sponsors/) *(set up your GitHub Sponsors link here)*
+- [Sponsor me on GitHub](https://github.com/sponsors/) 
 - Share this repo with your friends and classmates.
-- [Buy me a coffee!](https://www.buymeacoffee.com/) *(add your personal link if available)*
+- [Buy me a coffee!](https://www.buymeacoffee.com/) 
 
 Your support helps me create more useful educational content for everyone!
 
