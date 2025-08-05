@@ -89,3 +89,25 @@ void F() {
 void ADVANCE() {
     pt++;
 }
+/*
+output
+Recursive Descent parser
+
+E ->TE'
+E' ->+TE' /�
+T ->FT'
+T' ->*FT'/�
+F -> (E)/a
+enter the string :abc
+
+string rejected
+Recursive Descent parser
+
+E ->TE'
+E' ->+TE' /�
+T ->FT'
+T' ->*FT'/�
+F -> (E)/a
+enter the string :a+a
+
+*/
