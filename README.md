@@ -79,8 +79,7 @@ A curated collection of C programs for the **Compiler Lab** as per the APJ Abdul
 
 ## 📸 Sample Output
 
-_Add screenshots or sample outputs for each program for a better experience!_
-
+check out on your own
 ---
 
 ## 🙋 Support Me
