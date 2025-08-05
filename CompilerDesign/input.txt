@@ -1,10 +1,7 @@
-//used for lexical anlayzer program only
-int main(){
-cout <<"hello world"
-return 0;
+// Used for lexical analyzer program only
+#include <stdio.h>
+
+int main() {
+    printf("hello world\n");
+    return 0;
 }
-->
-
-
-
-
