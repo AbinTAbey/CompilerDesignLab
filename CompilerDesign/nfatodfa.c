@@ -150,3 +150,42 @@ int main()
     }
     return 0;
 }
+/*
+Follow the one based indexing
+
+Enter the number of states::2
+
+Give state numbers from 0 to 1
+Enter number of final states	1
+
+Enter final states::1
+
+Enter the number of rules according to NFA::3
+
+
+Define transition rule as "initial state input symbol final state"
+0 0 1
+0 1 1
+1 1 1
+
+Enter initial state::0
+
+Solving according to DFA1-0-->2
+1-1-->2
+2-0-->0
+2-1-->2
+for 0 ----
+The total number of distinct states are::
+STATE     0   1
+q0        0   0
+q0       2   2
+q1       0   2
+
+Enter String01
+
+String takes the following path-->
+1-2-2-
+Final state - 2
+
+String Accepted
+*/
