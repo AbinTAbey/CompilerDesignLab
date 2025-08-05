@@ -1,3 +1,4 @@
+//used for lexical anlayzer program only
 int main(){
 cout <<"hello world"
 return 0;
