@@ -62,3 +62,12 @@ int main() {
     }
     return 0;
 }
+/*Enter the no: of states 3
+Enter the states a b c
+Epsilon closure of a ={acb} 
+
+
+Epsilon closure of b ={b} 
+
+
+Epsilon closure of c ={cb} */
